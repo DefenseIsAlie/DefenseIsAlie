@@ -16,13 +16,15 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [Computer Vision - Face Expression
-Recognition](https://github.com/DefenseIsAlie/EE-401-Expression_Recognition) -
-🌱 I’m currently learning **Networking, Operating Systems** - 👨‍💻 All of my
-projects are available at
-[https://github.com/DefenseIsAlie/](https://github.com/DefenseIsAlie/) - 💬 Ask
-me about **Deep Learning, Data Analytics, SQL,Computer Vision** - 📫 How to
-reach me **200010021@iitdh.ac.in**
+- 🔭 I’m currently working on [Computer Vision - Face Expression Recognition](https://github.com/DefenseIsAlie/EE-401-Expression_Recognition) 
+
+- 🌱 I’m currently learning **Networking, Operating Systems** 
+
+- 👨‍💻 All of my projects are available at [https://github.com/DefenseIsAlie/](https://github.com/DefenseIsAlie/) 
+
+- 💬 Ask me about **Deep Learning, Data Analytics, SQL,Computer Vision** 
+
+- 📫 How to reach me **200010021@iitdh.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
@@ -282,14 +284,14 @@ reach me **200010021@iitdh.ac.in**
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=defenseisalie&show_icons=true&locale=en&layout=compact"
     alt="defenseisalie"
   />
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=defenseisalie&show_icons=true&locale=en"
     alt="defenseisalie"
