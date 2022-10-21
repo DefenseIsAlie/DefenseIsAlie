@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Josyula</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
+<h3 align="center">I'm a junior from IIT Dharwad, India specialising in Deep Learning and ML.</h3>
+
+<!--- 
+TODO: ADD connect with me
+
+TODO: Split Languages and Tools into specific skills based on priority
+
+TODO: Redirect skills icons to proper projects/ websites.
+---->
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=defenseisalie&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=defenseisalie&label=Profile%20views&color=61AFEF&style=flat-square"
     alt="defenseisalie"
   />
 </p>
@@ -27,7 +35,9 @@
 - 📫 How to reach me **200010021@iitdh.ac.in**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -283,25 +293,31 @@
 </p>
 
 <p>
+  <a href="https://github.com/DefenseIsAlie" target="_blank">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=defenseisalie&show_icons=true&locale=en&layout=compact&theme=onedark"
     alt="defenseisalie"
   />
+  </a>
 </p>
 
 <p>
+  <a href="https://github.com/DefenseIsAlie" target="_blank">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=defenseisalie&show_icons=true&locale=en&theme=onedark"
     alt="defenseisalie"
   />
+  </a>
 </p>
 
 <p>
+  <a href="https://github.com/DefenseIsAlie" target="_blank">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=defenseisalie&theme=onedark"
     alt="defenseisalie"
   />
+  </a>
 </p>
