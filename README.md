@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=defenseisalie"
+      src="https://github-profile-trophy.vercel.app/?username=defenseisalie&theme=onedark"
       alt="defenseisalie"
   /></a>
 </p>
@@ -285,7 +285,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=defenseisalie&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=defenseisalie&show_icons=true&locale=en&layout=compact&theme=onedark"
     alt="defenseisalie"
   />
 </p>
@@ -293,7 +293,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=defenseisalie&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=defenseisalie&show_icons=true&locale=en&theme=onedark"
     alt="defenseisalie"
   />
 </p>
@@ -301,7 +301,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=defenseisalie&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=defenseisalie&theme=onedark"
     alt="defenseisalie"
   />
 </p>
