@@ -34,10 +34,46 @@ TODO: Redirect skills icons to proper projects/ websites.
 
 - 📫 How to reach me **200010021@iitdh.ac.in**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<!--- 
+<a href="https://twitter.com/asdfa" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="asdfa"
+      height="30"
+      width="40"
+  /></a>
+---->
+  <a href="https://www.linkedin.com/in/abhishek-j-7bb4a8205" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="abhishek-j-7bb4a8205"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.kaggle.com/josyulaabhishek" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+      alt="josyulaabhishek"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://codeforces.com/profile/HumanNature" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+      alt="HumanNature"
+      height="30"
+      width="40"
+      />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
