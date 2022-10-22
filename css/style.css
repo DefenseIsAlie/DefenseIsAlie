@@ -1,16 +1,16 @@
-.lang_container{
-    overflow: auto;
-    white-space: nowrap;
-    padding: 5px 70px 5px 20px;
-    background: transparent;
-    height: 100%;
-    border-radius:15px;
+.lang_container {
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px 70px 5px 20px;
+  background: transparent;
+  height: 100%;
+  border-radius: 15px;
 }
 
-.gridscroll{
-    display:inline-block;  
+.gridscroll {
+  display: inline-block;
 }
-  
+
 .gridscroll img {
-    margin-right:22px;
+  margin-right: 22px;
 }
