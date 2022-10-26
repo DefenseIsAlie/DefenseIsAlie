@@ -4,11 +4,11 @@
 </h3>
 
 <!--- 
-TODO: ADD connect with me
+TODO: ADD connect with me done
 
-TODO: Split Languages and Tools into specific skills based on priority
+TODO: Split Languages and Tools into specific skills based on priority done
 
-TODO: Redirect skills icons to proper projects/ websites.
+TODO: Redirect skills icons to proper projects/ websites.  
 ---->
 
 <p align="left">
